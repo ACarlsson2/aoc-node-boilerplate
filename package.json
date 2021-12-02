@@ -1,0 +1,23 @@
+{
+  "name": "aoc2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "day": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACarlsson2/AOC2021.git"
+  },
+  "author": "Anton Carlsson Tysk",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.1"
+  },
+  "volta": {
+    "node": "16.10.0",
+    "yarn": "1.22.17"
+  }
+}
